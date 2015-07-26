@@ -1,0 +1,11 @@
+body{
+	background: #000;
+}
+.container{
+	margin-top: 50px;
+}
+.transition{
+    transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -webkit-transition: all .15s
+}
